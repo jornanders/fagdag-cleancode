@@ -5,6 +5,7 @@
 **classes/
 /out/
 *.log
+*.iml
 *.iws
 *.ipr
 *.DS_Store
