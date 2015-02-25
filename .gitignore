@@ -6,7 +6,6 @@
 /out/
 *.log
 *.iws
-*.iml
 *.ipr
 *.DS_Store
 *.idea
